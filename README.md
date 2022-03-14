@@ -1,9 +1,9 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- Anthon Elm
+- Thomas Zeuthen
+- Albert Wiborg (ptd207)
 
 This repository contains  
 1. Inaugural project. 
