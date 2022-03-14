@@ -1,4 +1,4 @@
-# \[Group name\]
+# \[lads\]
 
 **Group members:**
 - Anthon Elm
